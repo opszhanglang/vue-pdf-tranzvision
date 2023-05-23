@@ -1,6 +1,6 @@
 {
   "name": "vue-pdf-tranzvision",
-  "version": "1.3.0",
+  "version": "1.6.0",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
@@ -24,7 +24,7 @@
     "loader-utils": "^1.4.0",
     "raw-loader": "^4.0.1",
     "worker-loader": "^2.0.0",
-    "pdfjs-dist-tranzvision": "^1.3.0",
+    "pdfjs-dist-tranzvision": "^1.6.0",
     "vue-resize-sensor": "^2.0.0"
   },
   "peerDependencies": {}
