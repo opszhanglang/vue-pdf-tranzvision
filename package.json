@@ -1,6 +1,6 @@
 {
   "name": "vue-pdf-tranzvision",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
